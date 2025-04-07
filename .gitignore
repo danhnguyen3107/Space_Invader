@@ -2,4 +2,4 @@ library/*
 .vscode/*
 *.dll
 *.exe
-Makefile
+MakeFile
