@@ -73,6 +73,7 @@ void  Platform::process(I8080* cpu, IO_device* io, uint8_t* checkSound) {
 
 
 
+
 SDL_Color Platform::calculateOverlay(uint8_t hor, uint8_t ver){
 #define WHITE {255,255,255}
 #define RED   {255,  0,  0}

@@ -3,3 +3,4 @@ library/*
 *.dll
 *.exe
 MakeFile
+output.txt
